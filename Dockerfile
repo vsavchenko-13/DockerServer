@@ -4,4 +4,4 @@ FROM debian:stable-slim
 
 COPY DockerServer /bin/DockerServer
 
-CMD ["/bin/DockerServer"]
+CMD ["/bin/dockerserver"]
